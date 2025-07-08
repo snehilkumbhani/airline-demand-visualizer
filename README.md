@@ -26,4 +26,26 @@ This project is a full-stack data visualization web app that tracks and displays
 | Charts     | Plotly, Streamlit Native Charts |
 
 ---
+---
+
+## 📸 Screenshots
+
+### 🔹 Dashboard Overview
+![Dashboard Overview](Screenshot1.jpg)
+
+- Shows key airline market metrics such as:
+  - Most active airlines
+  - Top routes
+  - Flight status distribution
+  - Total number of flights, routes, and airlines
+
+### 🔹 Real-Time Flight Insights
+![Real-Time Insights](Screenshot2.jpg)
+
+- Visualizes real-time flight data with filters for:
+  - Specific airlines
+  - Flight routes
+  - Status (active, landed, etc.)
+
+> 📌 All charts are interactive (Plotly) and CSV export is available.
 
